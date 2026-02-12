@@ -33,7 +33,7 @@ This guide walks through the process of configuring an Azure Storage Account to 
 ---
 
 ## Step 3: Enable Static Website Hosting
-
+![alt text](https://github.com/glenpagesr-dev/Building-and-Hosting-a-Static-Website-on-Azure/blob/main/enable%20website.png)
 
 1. Once the storage account is deployed, open it.
 2. In the left-hand menu, scroll to **Data management**.
