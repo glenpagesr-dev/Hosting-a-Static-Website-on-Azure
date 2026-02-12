@@ -8,7 +8,7 @@ This guide walks through the process of configuring an Azure Storage Account to 
 ---
 
 ## Step 1: Sign in to the Azure Portal
-![alt text]
+![alt text](https://github.com/glenpagesr-dev/Building-and-Hosting-a-Static-Website-on-Azure/blob/main/sign%20in%20to%20the%20Azure%20Portal.png)
 1. Navigate to the **Azure Portal** 
 2. Sign in using your Azure account credentials.
 3. From the Azure home page, locate the search bar at the top.
