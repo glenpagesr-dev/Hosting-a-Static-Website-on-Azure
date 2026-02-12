@@ -63,7 +63,7 @@ This guide walks through the process of configuring an Azure Storage Account to 
 ---
 
 ## Step 5: Verify Public Access Settings
-
+![alt text](https://github.com/glenpagesr-dev/Building-and-Hosting-a-Static-Website-on-Azure/blob/main/Allow%20Blob%20Anonymous%20Access.png)
 
 1. In the storage account menu, select **Configuration**.
 2. Ensure **Allow Blob anonymous access** is set to **Enabled**.
